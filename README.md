@@ -1,6 +1,6 @@
 ### Olá, eu sou Belisnalva Costa (Belisnalva) 👋
 
-✨ **Student** na [DIO](https://digitalinnovation.one/) e entusiasta de tecnologia e educação.
+✨ **Student** na [DIO](https://digitalinnovation.one/) e entusiasta de tecnologia.
 
 🏢 **Atuação Estudantil**
 - 🚀 Student na plataforma da DIO.me
