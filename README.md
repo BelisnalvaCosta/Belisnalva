@@ -15,10 +15,10 @@
 
 ### 📌 Projetos em Destaque
 
-- [Projeto Interessante 1](https://github.com/BelisnalvaCosta/e-book-online)
-- [Projeto Interessante 2](https://github.com/BelisnalvaCosta/Mentoria_Plano_estudo)
-- [Projeto Interessante 3](https://github.com/BelisnalvaCosta/desafioExtratoBancario.py)
-- [Projeto Interessante N](https://github.com/BelisnalvaCosta/e-book-online)
+- [Projeto e-book-online 1](https://github.com/BelisnalvaCosta/e-book-online)
+- [Projeto Mentoria_Plano_estudo 2](https://github.com/BelisnalvaCosta/Mentoria_Plano_estudo)
+- [Projeto DesafioExtratoBancario 3](https://github.com/BelisnalvaCosta/desafioExtratoBancario.py)
+- [Projeto calculadora-rank](https://github.com/BelisnalvaCosta/calculadora-rank)
 
 ### 🚀 Linguagens Mais Usadas
 
