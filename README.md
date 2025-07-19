@@ -14,6 +14,7 @@
 ![BelisnalvaCosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelisnalvaCosta&show_icons=true&theme=dark)
 
 ### 📌 Projetos em Destaque
+- [Board Task Manager](https://github.com/BelisnalvaCosta/BoardTaskManager_Project)
 - [Biblioteca-Distribuidora 1](https://belisnalvacosta.github.io/biblioteca-distribuidora/)
 - [Agregar valor - artigo 2](https://github.com/BelisnalvaCosta/add-value?tab=readme-ov-file)
 - [Resume 3](https://github.com/BelisnalvaCosta/resume-Curriculo/blob/main/README.md)
