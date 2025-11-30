@@ -18,7 +18,7 @@ Comprometida com boas práticas, aprendizado contínuo e desenvolvimento de solu
 ## 📚 Projetos em Destaque
 
 ### 🔹 Autoconhecimento e valores essenciais
-- **Quiz Interativo (HTML/CSS/JS)**
+- **Quiz Interativo ((HTML/CSS/JS)**
   https://belisnalvacosta.github.io/quiz-autoconhecimento/
 
 ### 🔹 Desenvolvimento Web & Aplicações Interativas
