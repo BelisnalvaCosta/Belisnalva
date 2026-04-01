@@ -46,11 +46,16 @@ Comprometida com boas práticas, aprendizado contínuo e desenvolvimento de solu
 
 <div align="center">
 
-![BelisnalvaCosta GitHub stats](https://github-readme-stats.vercel.app/api?username=BelisnalvaCosta&show_icons=true&theme=transparent&line_height=24)
+![BelisnalvaCosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelisnalvaCosta&show_icons=true&theme=transparent&line_height=24)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelisnalvaCosta&layout=compact&theme=transparent)
 
 </div>
+
+---
+![BelisnalvaCosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelisnalvaCosta&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelisnalvaCosta&layout=compact&theme=radical)
 
 ---
 
