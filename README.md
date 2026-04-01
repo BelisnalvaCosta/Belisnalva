@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Belisnalva Costa
 
-Desenvolvedora **Trainee/Júnior** com foco em **Java**, **Python** e tecnologias Web. Formada em **Tecnologia da Informação pela Univesp (2025)**, atuo em projetos que envolvem lógica, POO, APIs básicas, banco de dados e aplicações interativas.  
+Desenvolvedora **Trainee/Júnior** com foco em **Java**, **Python** e tecnologias Web. Formada em **Tecnologia da Informação pela Univesp (2025)**, atuo em projetos que envolvem lógica, POO, API[...]  
 Comprometida com boas práticas, aprendizado contínuo e desenvolvimento de soluções eficientes.
 
 ---
@@ -18,7 +18,7 @@ Comprometida com boas práticas, aprendizado contínuo e desenvolvimento de solu
 ## 📚 Projetos em Destaque
 
 ### 🔹 Autoconhecimento e valores essenciais
-- **Quiz Interativo ((HTML/CSS/JS)**
+- **Quiz Interativo ((HTML/CSS/JS)**  
   https://belisnalvacosta.github.io/quiz-autoconhecimento/
 
 ### 🔹 Desenvolvimento Web & Aplicações Interativas
@@ -46,16 +46,11 @@ Comprometida com boas práticas, aprendizado contínuo e desenvolvimento de solu
 
 <div align="center">
 
-![BelisnalvaCosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelisnalvaCosta&show_icons=true&theme=transparent&line_height=24)
+![BelisnalvaCosta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BelisnalvaCosta&show_icons=true&theme=default&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelisnalvaCosta&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BelisnalvaCosta&layout=compact&theme=default&hide_border=true)
 
 </div>
-
----
-![BelisnalvaCosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelisnalvaCosta&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelisnalvaCosta&layout=compact&theme=radical)
 
 ---
 
