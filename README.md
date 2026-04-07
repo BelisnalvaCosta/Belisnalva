@@ -25,7 +25,8 @@ Comprometida com boas práticas, aprendizado contínuo e desenvolvimento de solu
 - **E-book Interativo (HTML/CSS/JS)**  
   https://github.com/BelisnalvaCosta/ebook-learning
     
-- **English Trainer - Aprenda inglês com os verbos regulares e integulares**
+- **English Trainer Pro - Inglês com os verbos regulares e irregulares**
+
   https://belisnalvacosta.github.io/english-trainer/
   
 - **Sistema de Heróis – Lógica de XP e Fases**  
