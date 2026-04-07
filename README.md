@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou a Belisnalva Costa
 
-Desenvolvedora **Trainee/Júnior** com foco em **Java**, **Python** e tecnologias Web. Formada em **Tecnologia da Informação pela Univesp (2025)**, atuo em projetos que envolvem lógica, POO, API[...]  
+Desenvolvedora **Trainee/Júnior** com foco em **Java**, **Python** e **FullStack**, tecnologias Web. Formada em **Tecnologia da Informação pela Univesp (2025)**, atuo em projetos que envolvem lógica, POO, API[...]  
 Comprometida com boas práticas, aprendizado contínuo e desenvolvimento de soluções eficientes.
 
 ---
 
 ## 🚀 Tecnologias e Competências
-- **Linguagens:** Java, Python, JavaScript  
+- **Linguagens:** Java, Python, JavaScript
 - **Web:** HTML5, CSS3  
 - **Banco de Dados:** MySQL, SQLite  
 - **Ferramentas:** Git, GitHub, VS Code, Postman, Streamlit  
@@ -44,13 +44,10 @@ Comprometida com boas práticas, aprendizado contínuo e desenvolvimento de solu
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-![BelisnalvaCosta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BelisnalvaCosta&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BelisnalvaCosta&layout=compact&theme=default&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BelisnalvaCosta&show_icons=true&theme=default" height="180em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BelisnalvaCosta&layout=compact&theme=default" height="180em"/>
+</p>
 
 ---
 
@@ -80,6 +77,7 @@ Atuar como **Desenvolvedora Trainee/Júnior** em Java ou Python, contribuindo pa
 - **LinkedIn:** https://www.linkedin.com/in/belisnalva-costa-pereira/  
 - **GitHub:** https://github.com/BelisnalvaCosta  
 - **Portfólio:** https://belisnalvacosta.github.io/resume-Curriculo/
+- **Portfólio atualizado - Projeto em Htmls e CSS:** https://belisnalvacosta.github.io/portfolio-atulizado/
 
 ---
 
