@@ -79,9 +79,7 @@ Atuar como **Desenvolvedora Trainee/Júnior** em Java ou Python, contribuindo pa
 
 ## 🌐 Contatos
 - **LinkedIn:** https://www.linkedin.com/in/belisnalva-costa-pereira/  
-- **GitHub:** https://github.com/BelisnalvaCosta  
-- **Portfólio:** https://belisnalvacosta.github.io/resume-Curriculo/
-- **Portfólio atualizado - Projeto em Htmls e CSS:** https://belisnalvacosta.github.io/portfolio-atulizado/
+- **Portfólio atualizado - Projeto em Html e CSS:** https://belisnalvacosta.github.io/portfolio-atulizado/
 
 ---
 
