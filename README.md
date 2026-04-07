@@ -24,7 +24,10 @@ Comprometida com boas práticas, aprendizado contínuo e desenvolvimento de solu
 ### 🔹 Desenvolvimento Web & Aplicações Interativas
 - **E-book Interativo (HTML/CSS/JS)**  
   https://github.com/BelisnalvaCosta/ebook-learning
-
+    
+- **English Trainer**
+  https://belisnalvacosta.github.io/english-trainer/
+  
 - **Sistema de Heróis – Lógica de XP e Fases**  
   https://github.com/BelisnalvaCosta/desafio-projeto-herois
 
